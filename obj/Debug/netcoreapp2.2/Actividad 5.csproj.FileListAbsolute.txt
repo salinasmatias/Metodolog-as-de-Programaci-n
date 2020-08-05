@@ -1,0 +1,33 @@
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/bin/Debug/netcoreapp2.2/Actividad 5.deps.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.dev.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/bin/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/bin/Debug/netcoreapp2.2/Actividad 5.pdb
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.csprojAssemblyReference.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.csproj.CoreCompileInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfoInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfo.cs
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 5/obj/Debug/netcoreapp2.2/Actividad 5.pdb
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/bin/Debug/netcoreapp2.2/Actividad 5.deps.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.dev.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/bin/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/bin/Debug/netcoreapp2.2/Actividad 5.pdb
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.csprojAssemblyReference.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.csproj.CoreCompileInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfoInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfo.cs
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividad 6/obj/Debug/netcoreapp2.2/Actividad 5.pdb
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/bin/Debug/netcoreapp2.2/Actividad 5.deps.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/bin/Debug/netcoreapp2.2/Actividad 5.runtimeconfig.dev.json
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/bin/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/bin/Debug/netcoreapp2.2/Actividad 5.pdb
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.csprojAssemblyReference.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.csproj.CoreCompileInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfoInputs.cache
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.AssemblyInfo.cs
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.dll
+/home/konta/Desktop/Actividades metodologías de programación 1/Actividades/obj/Debug/netcoreapp2.2/Actividad 5.pdb
